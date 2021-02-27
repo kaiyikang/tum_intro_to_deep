@@ -4,6 +4,6 @@ We will build the classical GRU-based Sequence to Sequence with attention and th
 
 ## Instruction:
 
-1, Operating Environment(default): Windows10 + Google-Colab
-2, The three CSV-file should be also uploaded in Colab before running
-3, Please import the file path by yourself in Colab during running
+1. Operating Environment(default): Windows10 + Google-Colab
+2. The three CSV-file should be also uploaded in Colab before running
+3. Please import the file path by yourself in Colab during running
